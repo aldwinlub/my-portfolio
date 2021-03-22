@@ -9,3 +9,11 @@ This week, we were assigned to create our own portfolios. I managed to make one 
 https://aldwinlub.github.io/my-portfolio/
 
 # Screenshots!
+
+Here is a snippet of my portfolio.
+
+![Part 1 of Screenshots](./assets/images/screen-shot-1.png)
+
+![Part 2 of Screenshots](./assets/images/screen-shot-2.png)
+
+![Part 3 of Screenshots](./assets/images/screen-shot-3.png)
