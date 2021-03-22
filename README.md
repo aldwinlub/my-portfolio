@@ -16,4 +16,4 @@ Here is a snippet of my portfolio.
 
 ![Part 2 of Screenshots](./assets/images/screen-shot-2.png)
 
-![Part 3 of Screenshots](./assets/images/screen-shot-3.png)
+![Part 3 of Screenshots](./assets/images/alt-screen-shot-3.png)
