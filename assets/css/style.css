@@ -265,7 +265,7 @@ hr.solid {
 .resume-content {
     width: 70%;
     height: 100%;
-    border: 2px solid #c39bd3;
+    /* border: 2px solid #c39bd3; */
     margin: 0px 15px 0px 15px;
     flex-grow: 1;
 }
